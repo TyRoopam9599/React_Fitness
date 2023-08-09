@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.f37c59ea.css",
-    "main.js": "/static/js/main.bf20f65f.js",
-    "static/media/banner.png": "/static/media/banner.5209b5e92a864ca0c615.png",
-    "static/media/cardio.png": "/static/media/cardio.e6b0f40480a4dbf0bf06.png",
-    "static/media/all.png": "/static/media/all.db6daf823a87c88c4862.png",
-    "static/media/waist.png": "/static/media/waist.c44a4eaaefd5005645e9.png",
-    "static/media/chest.png": "/static/media/chest.7b7b770afbcbc35ec44f.png",
-    "static/media/lowerArms.png": "/static/media/lowerArms.c581cd6c023a752ebc7c.png",
-    "static/media/lowerLegs.png": "/static/media/lowerLegs.6e01eaabca011473aff9.png",
-    "static/media/upperlegs.png": "/static/media/upperlegs.3f371ea077bdcab827e5.png",
-    "static/media/shoulders.png": "/static/media/shoulders.f79d70e8b41195cf8565.png",
-    "static/media/back.png": "/static/media/back.4c11e4df49d642f32804.png",
-    "static/media/upperArms.png": "/static/media/upperArms.46d9516cf329f47d6812.png",
-    "static/media/logo.png": "/static/media/logo.cd2e64d398173abcf8d9.png",
-    "index.html": "/index.html",
-    "main.f37c59ea.css.map": "/static/css/main.f37c59ea.css.map",
-    "main.bf20f65f.js.map": "/static/js/main.bf20f65f.js.map"
+    "main.css": "/React_Fitness/static/css/main.f37c59ea.css",
+    "main.js": "/React_Fitness/static/js/main.b40cb831.js",
+    "static/media/banner.png": "/React_Fitness/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/cardio.png": "/React_Fitness/static/media/cardio.e6b0f40480a4dbf0bf06.png",
+    "static/media/all.png": "/React_Fitness/static/media/all.db6daf823a87c88c4862.png",
+    "static/media/waist.png": "/React_Fitness/static/media/waist.c44a4eaaefd5005645e9.png",
+    "static/media/chest.png": "/React_Fitness/static/media/chest.7b7b770afbcbc35ec44f.png",
+    "static/media/lowerArms.png": "/React_Fitness/static/media/lowerArms.c581cd6c023a752ebc7c.png",
+    "static/media/lowerLegs.png": "/React_Fitness/static/media/lowerLegs.6e01eaabca011473aff9.png",
+    "static/media/upperlegs.png": "/React_Fitness/static/media/upperlegs.3f371ea077bdcab827e5.png",
+    "static/media/shoulders.png": "/React_Fitness/static/media/shoulders.f79d70e8b41195cf8565.png",
+    "static/media/back.png": "/React_Fitness/static/media/back.4c11e4df49d642f32804.png",
+    "static/media/upperArms.png": "/React_Fitness/static/media/upperArms.46d9516cf329f47d6812.png",
+    "static/media/logo.png": "/React_Fitness/static/media/logo.cd2e64d398173abcf8d9.png",
+    "index.html": "/React_Fitness/index.html",
+    "main.f37c59ea.css.map": "/React_Fitness/static/css/main.f37c59ea.css.map",
+    "main.b40cb831.js.map": "/React_Fitness/static/js/main.b40cb831.js.map"
   },
   "entrypoints": [
     "static/css/main.f37c59ea.css",
-    "static/js/main.bf20f65f.js"
+    "static/js/main.b40cb831.js"
   ]
 }
